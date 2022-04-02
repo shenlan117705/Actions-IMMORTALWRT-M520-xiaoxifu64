@@ -1,5 +1,7 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+xiaoxifu64维护的immwrt，21.02，加入natflow和rooter，支持大多数4、5g模块。因为高通openwrt usb性能烂到见鬼所以默认放弃所有usb功能集成。七天一次编译。
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
